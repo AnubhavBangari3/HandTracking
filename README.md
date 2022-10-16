@@ -1,2 +1,2 @@
 # HandTracking
-Hand Tracking in openCV by using mediapipe library
+Hand Tracking using openCV by using mediapipe library
